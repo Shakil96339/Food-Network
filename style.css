@@ -10,6 +10,9 @@ h2{
 }
 .width{
     width:50%;
+    margin-bottom: 5%;
+    margin-left :15%;
+    border-right: 15px;
     
 }
 .flex{
@@ -20,7 +23,7 @@ margin-left:5%;
 padding:40px;
 background-image: url(image/Frame\ 57.jpg);
 background-repeat: no-repeat;
-background-size: 80%;
+background-size: 100%;
 }
 h1{
     font-weight: 700;
@@ -29,9 +32,25 @@ h1{
 }
 .bi{
     text-decoration: none;
-    background-image: linear-gradient(rgb(158, 238, 227),rgb(3, 88, 67));
+    background-image: linear-gradient(rgb(54, 124, 115),rgb(216, 230, 226));
    padding:3% 4%;
    border-radius: 40px;
    font-size: 30px;
-   color:wheat;
+   color:rgb(211, 26, 13);
+}
+.flex-con{
+    display: flex;
+    background-image: url(image/7.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+.border{
+    margin-right: 10%;
+}
+.h1-size{
+    font-size: 70px;
+    text-align:"right";
+}
+#text-align{
+    text-align: center;
 }
