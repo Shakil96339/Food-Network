@@ -54,3 +54,8 @@ h1{
 #text-align{
     text-align: center;
 }
+.new-display{
+    display: flex;
+    width: 15% 15% 15%;
+    padding: 3%;
+}
