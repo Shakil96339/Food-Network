@@ -1,4 +1,37 @@
-head{
-    font-family: 'Otomanopee One', sans-serif;
+body{
+    margin:0px;
 }
-
+  span{
+      color:tomato;
+  }  
+h2{
+    color:#636e72;
+    font-size:30px;
+}
+.width{
+    width:50%;
+    
+}
+.flex{
+display: flex;
+width:50% 50%;
+margin-top:3%;
+margin-left:5%;
+padding:40px;
+background-image: url(image/Frame\ 57.jpg);
+background-repeat: no-repeat;
+background-size: 80%;
+}
+h1{
+    font-weight: 700;
+    font-style: italic;
+    font-size: 100px;
+}
+.bi{
+    text-decoration: none;
+    background-image: linear-gradient(rgb(158, 238, 227),rgb(3, 88, 67));
+   padding:3% 4%;
+   border-radius: 40px;
+   font-size: 30px;
+   color:wheat;
+}
