@@ -28,7 +28,7 @@ background-size: 100%;
 h1{
     font-weight: 700;
     font-style: italic;
-    font-size: 100px;
+    font-size: 80px;
 }
 .bi{
     text-decoration: none;
@@ -44,18 +44,38 @@ h1{
     background-repeat: no-repeat;
     background-size: 100%;
 }
-.border{
-    margin-right: 10%;
-}
+
+
 .h1-size{
-    font-size: 70px;
-    text-align:"right";
+    font-size: 50px;
+    text-align:"centre";
 }
-#text-align{
-    text-align: center;
+
+
+
+.food-contant{
+	display: flex;
+	justify-content: space-between;
 }
-.new-display{
-    display: flex;
-    width: 15% 15% 15%;
-    padding: 3%;
+
+
+.food-area{
+	width: 30%;
+	background: #ffffff;
+	border-radius: 25px;
+	box-shadow: 5px 5px 5px #ced6e0;
+}
+.container{
+	padding: 10px;
+}
+
+.food-img img{
+	width: 100%;
+	border-radius: 25px;
+}
+.food-title h2{
+	font-family: 'Roboto', sans-serif;
+}
+.food-title p{
+	font-family: 'Roboto', sans-serif;
 }
