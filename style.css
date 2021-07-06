@@ -1,6 +1,29 @@
 body{
     margin:0px;
 }
+  .new-section{
+      background-image: url(image/Frame\ 59.jpg);
+      background-size: 100%;
+      display: flex;
+      width: 60% 40%;
+      margin:0px;
+    
+
+     
+  }
+
+.adjust{
+  width: 40% 40%;
+  border-image-slice: 0%;
+  margin-top: 3%;
+  margin-left:5% ;
+  padding: 40px;
+ 
+  
+  
+
+}
+
   span{
       color:tomato;
   }  
@@ -29,7 +52,7 @@ margin: 0;
 h1{
     font-weight: 700;
     font-style: italic;
-    font-size: 80px;
+    font-size: 70px;
 }
 .bi{
     text-decoration: none;
@@ -89,4 +112,5 @@ h1{
     @import url('https://fonts.googleapis.com/css2?family=Otomanopee+One&display=swap'
     font-family: 'Otomanopee One', sans-serif;
 }
+
 
