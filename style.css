@@ -23,7 +23,8 @@ margin-left:5%;
 padding:40px;
 background-image: url(image/Frame\ 57.jpg);
 background-repeat: no-repeat;
-background-size: 100%;
+background-size: 100%; 
+margin: 0;
 }
 h1{
     font-weight: 700;
@@ -79,3 +80,13 @@ h1{
 .food-title p{
 	font-family: 'Roboto', sans-serif;
 }
+.conclusion{
+    text-align: center;
+   background-color: #010408;
+}
+#text-color{
+    color: #000405;
+    @import url('https://fonts.googleapis.com/css2?family=Otomanopee+One&display=swap'
+    font-family: 'Otomanopee One', sans-serif;
+}
+
