@@ -2,7 +2,9 @@ body{
     margin:0px;
 }
   .new-section{
-     background-color: aqua;
+    background-image: url(image/Frame\ 59.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
       display: flex;
       width: 60% 40%;
       margin:0px;
